@@ -2,7 +2,7 @@
 
 Telegraph is an open-source, drop-in notification solution for Node.js / React web applications.
 
-Read more about Telegraph's development in our case study [here](insert-url-later).
+Read more about Telegraph's development in our case study [here](https://telegraph-notify.github.io).
 
 ## Quick Start
 
